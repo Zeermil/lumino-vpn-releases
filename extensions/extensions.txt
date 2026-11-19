@@ -23,25 +23,5 @@
     ],
     "has_settings": true,
     "min_app_version": "2.0.0"
-  },
-  {
-    "has_settings": true,
-    "permissions": [
-      "config",
-      "notifications"
-    ],
-    "id": "color-picker-lab",
-    "tags": [
-      "qa",
-      "ui",
-      "color-picker"
-    ],
-    "version": "1.0.0",
-    "description": "Только колор-пикер: 2D-поле, пресеты, сохранённые цвета и HEX. Без VPN и фоновых задач.",
-    "author": "Lumino QA",
-    "name": "Колор-пикер — тест",
-    "sha256": "b40054f8a85126c6d53fb1079bc217b1c0aa86c9bef67a33d8cc34d83e465946",
-    "min_app_version": "1.9.0",
-    "file": "color_picker_lab.py"
   }
 ]
