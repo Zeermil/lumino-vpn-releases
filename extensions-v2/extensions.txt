@@ -1,0 +1,27 @@
+[
+  {
+    "id": "antigravity-unlock",
+    "file": "antigravity-unlock_1.1.0.luminoext",
+    "name": "Antigravity Sign-In Unlock",
+    "description": "Патч eligibility-проверки (ineligible -> inexigible) в language_server/agy и автодобавление в Split Tunnel.",
+    "version": "1.1.0",
+    "author": "Zeermil",
+    "sha256": "b2ec94229279b508b36f532790acfa5dc0810dcf25fddedf4cc0449184901dd2",
+    "format": "luminoext",
+    "signature_required": true,
+    "permissions": [
+      "fs",
+      "process",
+      "registry",
+      "split_tunnel",
+      "notifications"
+    ],
+    "tags": [
+      "antigravity",
+      "patch",
+      "split-tunnel"
+    ],
+    "has_settings": true,
+    "min_app_version": ""
+  }
+]
